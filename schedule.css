@@ -15,7 +15,7 @@ img, object, embed, video {
 
 a, a:hover, a:visited, a:focus, a:active, a:link{
 cursor:pointer;
-color:inherit;
+color:antiquewhite;
 outline:none;
 text-decoration:none;
 -webkit-touch-callout:none;
